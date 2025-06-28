@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/main_diaeventos/main_diaeventos.iml" filepath="$PROJECT_DIR$/main_diaeventos/main_diaeventos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/main_diaeventos/android/main_diaeventos_android.iml" filepath="$PROJECT_DIR$/main_diaeventos/android/main_diaeventos_android.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "951333086712",
+    "project_id": "dia-eventos-project",
+    "storage_bucket": "dia-eventos-project.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:951333086712:android:46a50a02e122eadeca620d",
+        "android_client_info": {
+          "package_name": "com.diaeventos.ec.main_diaeventos"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJQSmnTm0_QmA1DgKkgKoUSzC5I9i7KGE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
